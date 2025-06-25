@@ -1,5 +1,4 @@
 # shotgun-genetic-engineering
-Code to generate all figures from the Shotgun Genetic Engineering paper
 
 Scripts and sequences associated with Shotgun Genetic Engineering as described at:
 
