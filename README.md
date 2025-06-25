@@ -14,7 +14,7 @@ Contains --
       - CHO-Val
       - CHO-Ile
       - Jurkat-Val
-        § Includes Random Forest model generation to delineate TUs responsible for valine prototrophy
+            - Includes Random Forest model generation to delineate TUs responsible for valine prototrophy
   
 3. Monte Carlo simulations of high MOI random integration events
 
