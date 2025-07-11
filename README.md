@@ -1,6 +1,6 @@
 # shotgun-genetic-engineering
 
-Scripts and sequences associated with Shotgun Genetic Engineering as described at:
+Scripts and sequences associated with Shotgun Genetic Engineering as described at: https://www.biorxiv.org/content/10.1101/2025.07.08.663766v1
 
 Contains --
 
